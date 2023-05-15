@@ -1,0 +1,5 @@
+image: gitpod/workspace-full
+
+tasks:
+  - init: echo 'Init Script' # replace with your own init script
+  - command: echo 'Start Script' # replace with your own start script
